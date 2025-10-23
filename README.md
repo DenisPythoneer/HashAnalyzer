@@ -7,9 +7,9 @@
 ![Linux](https://img.shields.io/badge/Linux-Fedora%20%7C%20Arch%20%7C%20Kali-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_one.png)
-
 **Многофункциональный инструмент для идентификации и анализа криптографических хешей с двойным интерфейсом** 🔑
+
+![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_one.png)
 
 ---
 
