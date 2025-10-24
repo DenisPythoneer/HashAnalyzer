@@ -91,4 +91,4 @@ if __name__ == "__main__":
         print(Fore.YELLOW + '\n\n<- Goodbye!.. ->' + Fore.RESET)
 
 
-# <----- FsOcIeTy <-> ----->
+# <-----<->----->
