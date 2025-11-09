@@ -72,7 +72,7 @@
 ### **Клонирование репозитория:**
 ```bash
 git clone https://github.com/DenisPythoneer/HashAnalyzer.git
-cd Hash-Analyzer
+cd HashAnalyzer
 ```
 
 ### **Создание виртуального окружения:**
